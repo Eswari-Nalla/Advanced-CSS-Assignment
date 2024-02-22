@@ -1,0 +1,8 @@
+The var() function is part of CSS3. It allows users to access custom properties, such as color: var(--primary-color);. 
+
+CSS variables have access to the DOM, which means that users can:
+1. Create variables with local or global scope
+2. Change the variables with JavaScript
+3. Change the variables based on media queries 
+
+The var() function can be used to apply CSS variables to HTML. For example, users can create a set of custom red, green, and blue variables, and then apply those variables to boxes using the var() function.
